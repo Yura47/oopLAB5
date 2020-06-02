@@ -1,0 +1,4 @@
+D:\STUD\PROGRAMM\new sem\LAB_5_2\LAB_5_2\bin\Debug\netcoreapp3.1\LAB_5_2.exe
+D:\STUD\PROGRAMM\new sem\LAB_5_2\LAB_5_2\obj\Debug\netcoreapp3.1\LAB_5_2.csprojAssemblyReference.cache
+D:\STUD\PROGRAMM\new sem\LAB_5_2\LAB_5_2\obj\Debug\netcoreapp3.1\LAB_5_2.AssemblyInfoInputs.cache
+D:\STUD\PROGRAMM\new sem\LAB_5_2\LAB_5_2\obj\Debug\netcoreapp3.1\LAB_5_2.AssemblyInfo.cs
