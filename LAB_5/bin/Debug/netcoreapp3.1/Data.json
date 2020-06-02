@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Date": "14.04.2002",
+    "PatientsCount": "24",
+    "StartHour": "8",
+    "Name": "george",
+    "Speciality": "doc"
+  },
+  {
+    "Date": "10.05.2005",
+    "PatientsCount": "28",
+    "StartHour": "9",
+    "Name": "Raff",
+    "Speciality": "Hirurg"
+  },
+  {
+    "Date": "06.08.2007",
+    "PatientsCount": "14",
+    "StartHour": "12",
+    "Name": "Edd",
+    "Speciality": "Okulist"
+  },
+  {
+    "Date": "26.03.2010",
+    "PatientsCount": "16",
+    "StartHour": "17",
+    "Name": "Danylo",
+    "Speciality": "Pediatr"
+  },
+  {
+    "Date": "18.06.2000",
+    "PatientsCount": "30",
+    "StartHour": "18",
+    "Name": "Oleg",
+    "Speciality": "Lor"
+  },
+  {
+    "Date": "19.02.2003",
+    "PatientsCount": "31",
+    "StartHour": "15",
+    "Name": "Pavlo",
+    "Speciality": "Hirurg"
+  },
+  {
+    "Date": "15.03.2006",
+    "PatientsCount": "22",
+    "StartHour": "11",
+    "Name": "Oleg",
+    "Speciality": "Lor"
+  },
+  {
+    "Date": "26.02.2020",
+    "PatientsCount": "10",
+    "StartHour": "19",
+    "Name": "george",
+    "Speciality": "doc"
+  }
+]
